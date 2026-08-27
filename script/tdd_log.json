@@ -108,9 +108,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "df5c8e1390297dee139fad2fd88e9751b91f1be3",
     "commitName": "feat: Genera FizzBuzz cuando el numero es 3 devolver Fizz",
     "commitTimestamp": 1787838305590,
     "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1787838343514,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838361806,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Genera FizzBuzz para cuando el numero es multiplo de 3",
+    "commitTimestamp": 1787838396230,
+    "testId": 3
   }
 ]

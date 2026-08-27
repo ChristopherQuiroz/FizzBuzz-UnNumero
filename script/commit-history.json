@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "df5c8e1390297dee139fad2fd88e9751b91f1be3",
     "author": "Chris",
     "commit": {
       "date": "2026-08-27T13:45:04.000Z",
       "message": "feat: Genera FizzBuzz cuando el numero es 3 devolver Fizz",
-      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/df5c8e1390297dee139fad2fd88e9751b91f1be3"
     },
     "stats": {
       "total": 14,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-08-27T13:46:35.000Z",
+      "message": "feat: Genera FizzBuzz para cuando el numero es multiplo de 3",
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
