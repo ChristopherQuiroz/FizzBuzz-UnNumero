@@ -78,9 +78,39 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7f562e4b4961b1bee4c78fdca589243cbbe8a8c5",
     "commitName": "feat: Genera FizzBuzz para otro numero que no sigue una regla",
     "commitTimestamp": 1787838129677,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1787838205610,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 3,
+    "numTotalTests": 3,
+    "timestamp": 1787838247002,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838262973,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Genera FizzBuzz cuando el numero es 3 devolver Fizz",
+    "commitTimestamp": 1787838305590,
+    "testId": 2
   }
 ]

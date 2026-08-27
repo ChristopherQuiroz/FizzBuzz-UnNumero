@@ -10,4 +10,8 @@ describe('isFizzBuzz', () => {
         expect(isFizzBuzz(1)).toBe("1");
     });
 
+    it('Deberia generar Fizz si el numero es 3', () => {
+        expect(isFizzBuzz(3)).toBe("Fizz");
+    });
+
 });
