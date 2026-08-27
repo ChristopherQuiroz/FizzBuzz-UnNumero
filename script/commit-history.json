@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "edef0e4ab0d19c41bc63414a25a645867449155c",
     "author": "Chris",
     "commit": {
       "date": "2026-08-27T13:49:27.000Z",
       "message": "feat: Genera FizzBuzz cuando el numero es multiplo de 5",
-      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/edef0e4ab0d19c41bc63414a25a645867449155c"
     },
     "stats": {
       "total": 6,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-08-27T13:52:15.000Z",
+      "message": "feat: Generar FizzBuzz para cuando el numero es 15",
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -182,9 +182,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "edef0e4ab0d19c41bc63414a25a645867449155c",
     "commitName": "feat: Genera FizzBuzz cuando el numero es multiplo de 5",
     "commitTimestamp": 1787838568822,
     "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1787838650580,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838694455,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Generar FizzBuzz para cuando el numero es 15",
+    "commitTimestamp": 1787838736677,
+    "testId": 6
   }
 ]

@@ -26,4 +26,8 @@ describe('isFizzBuzz', () => {
         expect(isFizzBuzz(25)).toBe("Buzz");
     });
 
+    it('Deberia generar FizzBuzz si el numero es 15', () => {
+        expect(isFizzBuzz(15)).toBe("FizzBuzz");
+    });
+
 });
