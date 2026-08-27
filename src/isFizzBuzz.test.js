@@ -30,4 +30,7 @@ describe('isFizzBuzz', () => {
         expect(isFizzBuzz(15)).toBe("FizzBuzz");
     });
 
+    it('Deberia generar FizzBuzz si el numero es multiplo de 3 y 5', () => {
+        expect(isFizzBuzz(30)).toBe("FizzBuzz");
+    });
 });
