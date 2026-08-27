@@ -226,9 +226,15 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9e21b1d5262e74fd23540ef897f1ee649790245d",
     "commitName": "feat: Genera FizzBuzz para cuando el numero es multiplo de 3 y 5",
     "commitTimestamp": 1787838827707,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar html para visualizar la funcion FizzBuzz",
+    "commitTimestamp": 1787839657352,
+    "testId": 8
   }
 ]
