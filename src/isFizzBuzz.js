@@ -3,7 +3,11 @@ function isFizzBuzz(num) {
 
     if(num%3 == 0){
         result = "Fizz";
-    } else {
+    } 
+    else if(num == 5){
+        result = "Buzz";
+    }
+    else {
         result = num + "";
     }
     
