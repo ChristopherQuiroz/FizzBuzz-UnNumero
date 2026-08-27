@@ -1,5 +1,5 @@
 function isFizzBuzz(num) {
-    return "2";
+    return num + "";
 }
 
 export default isFizzBuzz;

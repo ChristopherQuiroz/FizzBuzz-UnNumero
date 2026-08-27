@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "4125dd9ca7b3f688bf2aa37fce190789a751bed2",
     "author": "Chris",
     "commit": {
       "date": "2026-08-27T13:36:06.000Z",
       "message": "feat: Genera numero FizzBuzz para numero que no sigue la regla",
-      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/4125dd9ca7b3f688bf2aa37fce190789a751bed2"
     },
     "stats": {
       "total": 24,
       "additions": 18,
       "deletions": 6,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-08-27T13:42:08.000Z",
+      "message": "feat: Genera FizzBuzz para otro numero que no sigue una regla",
+      "url": "https://github.com/ChristopherQuiroz/FizzBuzz-UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 5,
+      "deletions": 15,
       "date": "2026-08-27"
     },
     "coverage": 100,

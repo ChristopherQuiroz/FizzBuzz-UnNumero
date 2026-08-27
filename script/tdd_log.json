@@ -56,9 +56,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4125dd9ca7b3f688bf2aa37fce190789a751bed2",
     "commitName": "feat: Genera numero FizzBuzz para numero que no sigue la regla",
     "commitTimestamp": 1787837767241,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1787837894556,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1787837989789,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Genera FizzBuzz para otro numero que no sigue una regla",
+    "commitTimestamp": 1787838129677,
+    "testId": 1
   }
 ]
