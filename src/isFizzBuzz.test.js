@@ -22,4 +22,8 @@ describe('isFizzBuzz', () => {
         expect(isFizzBuzz(5)).toBe("Buzz");
     });
 
+    it('Deberia generar Buzz si el numero es multiplo de 5', () => {
+        expect(isFizzBuzz(25)).toBe("Buzz");
+    });
+
 });
